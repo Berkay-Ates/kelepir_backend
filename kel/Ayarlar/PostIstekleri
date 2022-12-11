@@ -1,0 +1,22 @@
+
+Ürün istekleri
+
+
+Get :
+        ürün adına göre
+        ürün konumuna göre ()
+        mağzaya göre (filtreleme)
+        markaya göre (filtreleme )
+        fiyata göre (ucuzdan pahalıya ya da tam tersine göre) + ürün
+        zamana göre (en yeni en eski ) + ürün
+
+Post :
+        yeni ürün ekleme  : veri tabanında olan her veri istenecektir
+
+Update:(sadece kendi ürünleri üzerinde update yapabilir.)
+       niye update yaptığına göre açıklama
+Delete:
+        niye sildiğne dair açıklama
+
+
+

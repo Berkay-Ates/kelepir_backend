@@ -1,0 +1,45 @@
+
+1 kullanıcı bilgileri ile ilgili olan database olacak
+    Users:
+        username: (Ek bir kuallnıcı adına gerek var mı ?)
+        name:
+        surname:
+        email:
+        password:
+        unique id:
+
+    Posts:
+        unique id:
+        data: (foroğraf )
+        product:
+        brand:
+        price:
+        location:
+        Store name:
+        time:
+        User informations {
+                            username:
+                            }
+        comments []
+        like:
+        dislike:
+        others:( aynı ürünün farklı yerlerdeki fiyatları)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
